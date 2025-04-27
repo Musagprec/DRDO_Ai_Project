@@ -1,0 +1,5 @@
+Easy: Apple, Baseball Bat, Book, Bread, Circle, Cloud, Cookie, Cup, Donut, Door, Eye, Face, Fan, Helmet, Ice Cream, Key, Ladder, Line, Lollipop, Moon, Moustache, Pants, Paper Clip, Pencil, Pillow, Shorts, Smiley Face, Snake, Sock, Spoon, Square, Star, Sun, Tent, T-shirt, Triangle, Umbrella, Wheel
+
+Medium: Anvil, Axe, Basketball, Beard, Bed, Bench, Bicycle, Broom, Camera, Car, Cat, Ceiling Fan, Cell Phone, Chair, Clock, Coffee Cup, Drums, Dumbbell, Envelope, Flower, Frying Pan, Hat, Headphones, Knife, Laptop, Lightning, Mountain, Mushroom, Pizza, Rainbow, Rifle, Saw, Scissors, Screwdriver, Shovel, Spider, Stop Sign, Suitcase, Sword, Syringe, Table, Tennis Racquet, Tooth, Traffic Light, Wristwatch
+
+Hard: Airplane, Alarm Clock, Bird, Butterfly, Camera, Cell Phone, Diving Board, Eyeglasses, Grapes, Hot Dog, Light Bulb, Microphone, Power Outlet, Radio, Tortoise
